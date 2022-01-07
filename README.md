@@ -26,6 +26,10 @@ I am a passionate full stack developer from South Africa. As a current .NET Deve
 
 - ⚡ Fun fact: **I like cheese toast**
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/tmathura" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tmathura" /></a>
@@ -59,3 +63,7 @@ I am a passionate full stack developer from South Africa. As a current .NET Deve
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tmathura&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmathura&layout=compact&theme=cobalt&hide_border=true" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
