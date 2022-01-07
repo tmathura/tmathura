@@ -18,7 +18,7 @@ I am a passionate full stack developer from South Africa. As a current .NET Deve
 
 <br>
 
-- 🔭 I’m currently working on [RadarrApiWrapper](https://github.com/RadarrApiWrapper/RadarrApiWrapper)
+- 🔭 I’m currently working on [RadarrApiWrapper](https://github.com/RadarrApiWrapper/RadarrApiWrapper) and [RadarrPusherApi](https://github.com/RadarrPusherApi/RadarrPusherApi)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tmathura](https://github.com/tmathura)
 
