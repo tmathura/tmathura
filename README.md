@@ -4,6 +4,12 @@
 
 <h1 align="center">Hi there! 👋 I'm Teshvier Mathura</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2339FF14&center=true&vCenter=true&width=700&lines=Greetings+from+South+Africa+and+welcome+to+my+GitHub+profile.">
+  </a>
+</p>
+
 <h2 align="center">About Me</h2>
 
 <p align="center">
@@ -32,6 +38,7 @@ I am a passionate full stack developer from South Africa. As a current .NET Deve
 <p align="center"> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VB.Net-0078D4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
