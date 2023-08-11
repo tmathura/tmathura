@@ -6,14 +6,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2339FF14&center=true&vCenter=true&width=700&lines=Greetings+from+South+Africa+and+welcome+to+my+GitHub+profile.">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2339FF14&center=true&vCenter=true&width=700&lines=Greetings+from+the+Netherlands+and+welcome+to+my+GitHub+profile.">
   </a>
 </p>
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I am a passionate full stack developer from South Africa. As a current .NET Developer, I am very passionate about .NET and I want to continue exploring the .NET stack. This includes using more of .NET Core and even .NET 5+ while continuing to do full stack development. As an automation enthusiast, I love to incorporate this in any way or form. This includes setting up the CI/CD for automated deployments then using Selenium or TestCafe for frontend testing, adding unit tests and adding integration tests for API testing. Since I have a bit of a perfectionist personality, I tend to bring this into my work. Therefore, I would meticulously go over my work to ensure the quality is up to standard and that my development is bug-free.
+With over a decade of experience as a .NET Developer, I have honed my skills in object-oriented programming and am particularly proficient in C#. Specializing in understanding complex architectures, my work extends beyond coding to fostering a conducive team environment. In addition to mentoring less experienced team members, I am an advocate of high-quality coding standards, and I am always eager to innovate and learn. I am equally skilled in managing projects and adapting to dynamic, fast-paced environments.
 </p>
 
 <br>
